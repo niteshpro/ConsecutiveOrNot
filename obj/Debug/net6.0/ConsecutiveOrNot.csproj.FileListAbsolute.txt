@@ -1,0 +1,15 @@
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\bin\Debug\net6.0\ConsecutiveOrNot.exe
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\bin\Debug\net6.0\ConsecutiveOrNot.deps.json
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\bin\Debug\net6.0\ConsecutiveOrNot.runtimeconfig.json
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\bin\Debug\net6.0\ConsecutiveOrNot.dll
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\bin\Debug\net6.0\ConsecutiveOrNot.pdb
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.csproj.AssemblyReference.cache
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.AssemblyInfoInputs.cache
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.AssemblyInfo.cs
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.csproj.CoreCompileInputs.cache
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.dll
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\refint\ConsecutiveOrNot.dll
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.pdb
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ConsecutiveOrNot.genruntimeconfig.cache
+C:\Users\nitesh\Desktop\C#\ConsecutiveOrNot\ConsecutiveOrNot\obj\Debug\net6.0\ref\ConsecutiveOrNot.dll
